@@ -1,16 +1,15 @@
 # chat_app
 
-A new Flutter project.
+This is a simple one channel chat app using flutter and Firebase as the back end.
 
-## Getting Started
+It simulates a group chat where everyone can send any message
+to the same group name.
 
-This project is a starting point for a Flutter application.
+This is what the app looks like:
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
